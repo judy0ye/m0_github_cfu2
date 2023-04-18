@@ -1,0 +1,1 @@
+Informative git commands include `git status`, `git diff`, and `git log`
